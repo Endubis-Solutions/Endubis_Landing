@@ -2,7 +2,6 @@
 
 A gooey cursor background effect with SVG filters and CSS blend modes.
 
-![Image Title](https://tympanus.net/codrops/wp-content/uploads/2023/06/gooeycursor_2.2023-06-07-10_54_11.gif?x99136)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=72438)
 
